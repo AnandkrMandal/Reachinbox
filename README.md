@@ -21,7 +21,8 @@ To install and run this project on your local machine, follow these steps:
    
    cd into project
    ```bash
-
+   
+   https://github.com/AnandkrMandal/Reachinbox.git
     
    ```
 
